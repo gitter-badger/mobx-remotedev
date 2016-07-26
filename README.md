@@ -4,6 +4,8 @@ Remote debugging for MobX with [Redux DevTools extension](https://github.com/zal
 
 ## Installation
 
+[![Join the chat at https://gitter.im/zalmoxisus/mobx-remotedev](https://badges.gitter.im/zalmoxisus/mobx-remotedev.svg)](https://gitter.im/zalmoxisus/mobx-remotedev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### 1. Get the extension
 ##### 1.1 For Chrome
  - from [Chrome Web Store](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
